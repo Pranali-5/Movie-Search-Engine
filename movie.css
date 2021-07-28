@@ -1,0 +1,45 @@
+#errImg {
+  width: 80%;
+  height: 700px;
+  margin-left: 140px;
+  margin-top: 20px;
+}
+
+#movie {
+  margin-left: 650px;
+  height: 30px;
+  width: 250px;
+}
+button {
+  height: 30px;
+}
+#recommended {
+  margin-left: 650px;
+  background-color: green;
+  height: 35px;
+  width: 300px;
+  margin-top: 10px;
+  text-align: center;
+}
+
+body {
+  background-color: rgb(62, 52, 75);
+  font-size: 30;
+  font-style: "Times New Roman";
+  color: white;
+}
+#poster {
+  margin-top: 10px;
+}
+p {
+  margin-right: 155px !important;
+  margin-left: 305px !important;
+}
+
+#poster,
+#info {
+  margin-left: 650px;
+}
+#title {
+  margin-left: 750px;
+}
